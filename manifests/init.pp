@@ -1,1 +1,1 @@
-notify { "Hello!": }
+notify { "Hello from feature!": }
